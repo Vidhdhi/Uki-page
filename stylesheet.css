@@ -1,0 +1,26 @@
+p{text-align: center;}
+
+  .box{
+ border-radius: 25px;
+ background: lightblue;
+ padding: 20px;
+ width: 700px;
+ height: 300px;
+ align:center;
+}
+  .box1{background-color: lightgray;
+    border-radius: 25px; padding: 20px;
+     width: 400px; position: absolute;
+     left:  0px;
+     height: 300px;
+     ;
+    }
+
+  .box2{background-color: lightgray;
+    border-radius: 25px; padding: 20px;
+   width: 400px;
+   position: absolute;
+  right: 0px;
+   height: 300px;
+    }
+  
